@@ -1,0 +1,25 @@
+* {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+}
+
+h1 {
+  font-size: 48px;
+  color: darksalmon;
+  
+
+
+}
+
+ul {
+  font-size: 24px;
+  color: darksalmon;
+}
+
+li {
+  background-color: rgb(238, 182, 162);
+  background-size: contain;
+
+}
