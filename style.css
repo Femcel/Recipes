@@ -1,16 +1,10 @@
 * {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-
-
 }
 
 h1 {
   font-size: 48px;
   color: darksalmon;
-  
-
-
 }
 
 ul {
@@ -21,5 +15,17 @@ ul {
 li {
   background-color: rgb(238, 182, 162);
   background-size: contain;
+}
 
+#morango h1{
+  color:rgb(183, 42, 42);
+  
+}
+#morango ul, #morango li {
+  font-size: 20px;
+
+}
+#morango li {
+  color: crimson;
+  background-color:rgb(222, 251, 236);
 }
